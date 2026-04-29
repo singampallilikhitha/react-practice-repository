@@ -6,16 +6,21 @@ import './App.css'
 import Home from './components/Home'
 import About from './components/About'
 import Contact from './components/Contact'
-import Login from './components/Login'
+import Projects from './components/Projects'
+import Skills from './components/Skills'
 
 function App() {
   return (
-    <div>
-      <Home/>/ 
-      <About/>
-      <Contact/>
-      <Login/>
-    </div>
+    <> 
+    <h1>Hai Guyss!!</h1>
+    <h1>Byeee</h1>
+    <Home/>
+    <About/>
+    <Projects/>
+    <Skills/>
+    <Contact/>
+    </>
+   
  )
 }
 export default App
